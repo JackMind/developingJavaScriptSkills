@@ -1,0 +1,2 @@
+# developingJavaScriptSkills
+starting with javascript
