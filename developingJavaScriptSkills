@@ -1,1 +1,5 @@
 console.log("developingJavaScriptSkills");
+var array = ['Cona', 'Cu', 'Mamas'];
+for (var i = 0; i < array.length; i++) {
+  console.log(array[i]);
+}
